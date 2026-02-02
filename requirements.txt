@@ -30,5 +30,7 @@ pandas
 numpy
 scikit-learn
 
+
 # Development
 streamlit
+pydantic
