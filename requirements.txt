@@ -34,3 +34,6 @@ scikit-learn
 # Development
 streamlit
 pydantic
+
+# Visualization
+grandalf
