@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-classic
 langchain-community
 langchain-experimental
 
@@ -49,3 +50,7 @@ beautifulsoup4
 langchain-chroma
 chromadb
 tiktoken
+
+# Retrivers
+faiss-cpu
+wikipedia
