@@ -44,3 +44,8 @@ grandalf
 # Others 
 pypdf
 beautifulsoup4
+
+# vector store
+langchain-chroma
+chromadb
+tiktoken
